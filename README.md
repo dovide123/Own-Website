@@ -1,2 +1,2 @@
 # Own-Website
- chazzanus/opera record passion
+ chazzanus/cantorial/opera record passion
