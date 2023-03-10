@@ -16,6 +16,12 @@ nav ul {
   padding: 0;
 }
 
+
+img {
+  width: 300px;
+  height: auto
+}
+
 nav li {
   display: inline-block;
   margin-right: 10px;
@@ -52,4 +58,25 @@ footer {
   color: #fff;
   padding: 10px;
   text-align: center;
+}
+
+/* Dashed border */
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
+
+/* Dotted border */
+hr.dotted {
+  border-top: 3px dotted #bbb;
+}
+
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
+/* Rounded border */
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
 }
